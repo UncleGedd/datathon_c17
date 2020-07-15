@@ -1,0 +1,87 @@
+﻿,"All pilots must either fly a local, simulator, or mission once per month",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Simulator Semi-Annual Requirements (MRP sim must be filled but does not count as currency for any crew position beside FPNC),,,,,,,,
+,FPNC,"FPCC, FPQC, FPLC","FPCC5, FPCCR, FPQC5,  FPQCR, FPLC5, FPLCR",MP C,"MP C5, MP CR, IP B5","MP CZ, MP CJ","IP B, IP A, EP A","IP B3, IP B2, IP BZ, IP BJ, IP BX","IP A2, EP A2, IP AX, IP AL, EP AL"
+Requirements,1x MRP,2x G250,2x G250,2x G250,2x G250,2x G250,1x G250,1x G250,1x G250
+,2x G250,1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr),1x Day 1 (1st Qtr)
+,1x Day 1 (1st Qtr),1x AL Day 2 (1st Qtr),1x AD Day 2 (1st Qtr),1x AL Day 2 (1st Qtr),1x AD Day 2 (1st Qtr),1x AD Day 2 (1st Qtr),1x AL Day 2 (1st Qtr),1x AD Day 2 (1st Qtr),1x AD Day 2 (1st Qtr)
+,1x AL Day 2 (1st Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr),1x Day 1 (2nd Qtr)
+,1x Day 1 (2nd Qtr),1x AL Day 2 (2nd Qtr),1x AD Day 2 (2nd Qtr),1x AL Day 2 (2nd Qtr),1x AD Day 2 (2nd Qtr),1x AD Day 2 (2nd Qtr),1x AL Day 2 (2nd Qtr),1x AD Day 2 (2nd Qtr),1x AD Day 2 (2nd Qtr)
+,1x AL Day 2 (2nd Qtr),4x ISS (Min 1 per Qtr),4x ISS (Min 1 per Qtr),1x MMP (Annual),2x ISS (Min 1 per Qtr),1x MMP (Annual),1x MMP (Annual),1x MMP (Annual),1x MMP (Annual)
+,4x ISS (Min 1 per Qtr),1x MMP (Annual),1x MMP (Annual),,1x MMP (Annual),,,,
+,1x MMP (Annual),,,,,,,,
+,,,,,,,,,
+,"Air Refueling Semi-Annual Requirements (Can only log 1 AR event per sim or flight, dual log AR and Night AR if AR accomplished at night, can conduct Night AR event in sim)",,,,,,,,
+,"FPNC, FPCC, FPCC5, FPCCR, FPQC, FPQC5, FPQCR","FPLC, FPLC5, FPLCR, MP C, MP C5, MP C3, MP CR, MP CZ, MP CJ","IP B, IP B3, IP B2, IP BZ, IP BJ, IP BX","IP A, IP A2, IP AX, IP AL, EP A, EP A2, EP AL",,,,,
+Requirements,No AR Requirements,Must conduct AR at least every 45 days,Must conduct AR at least every 60 days,Must conduct AR at least every 60 days,,,,,
+,,6 AR events (Total),2 AR events required in aircraft,1 AR events required in aircraft,,,,,
+,,3 AR events required in aircraft,2 Night AR events (1 required in aircraft),2 Night AR events (1 required in aircraft),,,,,
+,,2 Night AR events (1 required in aircraft),,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"ALZ Semi-Annual Requirements (Can only log 2 ALZ events per sim and can only log 1 ALZ event per flight, dual log ALZ and NVG ALZ if ALZ conducted at night, can conduct NVG ALZ event in sim)",,,,,,,,,
+,"FPNC, FPCC, FPCC5, FPCCR, FPQC, FPQC5, FPQCR","FPLC, FPLC5, FPLCR, MP C, MP C5, MP C3, MP CR, MP CZ, MP CJ","IP B, IP B3, IP B2, IP BZ, IP BJ, IP BX, IP A, IP A2, IP AX, IP AL, EP A, EP A2, EP AL",,,,,,
+Requirements,ALZ and NVG ALZ must be conducted at least once per quarter,ALZ and NVG ALZ must be conducted at least once per quarter,ALZ and NVG ALZ must be conducted at least once per quarter,,,,,,
+,4 ALZ events (2 required in aircraft),8 ALZ events (4 required in aircraft),4 ALZ events (2 required in aircraft),,,,,,
+,4 NVG ALZ events (0 required in aircraft),4 NVG ALZ events (2 required in aircraft),2 NVG ALZ events (1 required in aircraft),,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Airdrop Semi-Annual Requirements,,,,,,,,,
+,"FPCC5, FPCCR, FPQC5, FPQCR, FPLC5, FPLCR, MP C5, MP C3, MP CR, MP CZ, MP CJ, IP B3, IP B2, IP BZ, IP BJ, IP BX, IP A2, IP AX, IP AL, EP A2, EP AL",,,,,,,,
+Requirements,Must fly at least 1 night airdrop,,,,,,,,
+,,,,,,,,,
+,SOLL II Requirements,,,,,,,,
+,"FPCCR, FPQCR, FPLCR, MP CR, MP CZ, MP CJ, IP BZ, IP BJ, IP BX, IP AX, IP AL, EP AL",,,,,,,,
+Requirements,Must fly at least 1 SOLL II Local every 60 days,,,,,,,,
+,Must be current for SOLL II Alert,,,,,,,,
+,,,,,,,,,
+Qualification changes,,,,,,,,,
+AL Qual Change,FPNC -> FPCC,"FPCC -> FPQC
+FPCC5 -> FPQC5
+FPCCR -> FPQCR","FPQC -> FPLC
+FPQC5 -> FPLC5
+FPQCR -> FPLCR","FPLC -> MP C
+FPLC5 -> MP C5
+FPLCR -> MP CR","MP C -> IP B
+MP C5 -> IP B5
+MP C3 -> IP B3","IP B -> IP A
+IP B3 -> IP A3
+IP B2 -> IP A2","IP A -> EP A
+IP A3 -> EP A3
+IP A2 -> EP A2",,
+Requirements,1x MRP sim,4 months FPCC,8 months FPQC,2x Missions,6 months MP,1 year IP,CC directed,,
+,1x Day Local,,Altus PCO TDY,1x Op Mission Eval,Altus IAC TDY,,,,
+,1x Night Local,,,,,,,,
+,"1x Mission (must be 4th pilot on Augmented crew, cannot be OME)",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+AD Qual Change,"FPCC -> FPCC5
+FPQC -> FPQC5","MP C5 -> MP C3
+IP B5 -> IP B3
+MP CR -> MP CZ","IP B3 -> IP B2
+IP A3 -> IP A2
+EP A3 -> EP A2
+IP BJ -> IP BX",,,,,,
+Requirements,Altus CPAD TDY,Altus ACAD TDY,Lead Upgrade,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+SOLL Qual Change,"FPCC5 -> FPCCR
+FPQC5 -> FPQCR","MP CZ -> MP CJ
+IP BZ -> IP BJ",IP A X -> IP AL,,,,,,
+Requirements,SOLL II RS Upgrade,SOLL II JS Upgrade,SOLL II LS Upgrade,,,,,,
+,,,,,,,,,
+,"Crew Makeup Requirements (+ means crewmemers above list qualification can be used to fill slot, AD requires AD qualified personnel, SOLL II requires SOLL II qualified personnel)",,,,,,,,
+Event,Local,AD Local,Basic,Augmented,AR Augmented (Must be current in AR),SOLL Augmented,,,
+Requirements,IP+,MP C3+,MP+,MP+,IP+,IP AL+,,,
+,FPC+,FPQC5+,FPC+,FPQ+,MP+,MP CJ+ or IP BJ+,,,
+,FPN+,FPCC5+,,FPC+,FPC+,FPCCR+,,,
+,,,,,,,,,
+,,,,,,,,,
+,"Crew Makeup Requirements (+ means crewmemers above list qualification can be used to fill slot, AD requires AD qualified personnel, SOLL II requires SOLL II qualified personnel)",,,,,,,,
+Event,Sim Eval,AL Misison Eval,AD Misison Eval,Operational Mission Eval (OME),SOLL II Eval,,,,
+Requirements,MP+,IP B+,IP B3+,FPL (Evaluee),IP AL+,,,,
+,FPC+,FPQ+,FPQC5+,FPQ,MP CJ+ or IP BJ+,,,,
+,EP,FPC+,FPCC5+,FPC,FPCCR+,,,,
+,,,EP A2 or EP AL,EP A+,EP AL,,,,
+,*An AL MSN Eval can be completed in conjuction with an AD Msn Eval or SOLL II Eval if on an AD or SOLL II Local with an EP. An AD MSN Eval can be completed in conjuction with an SOLL II Eval if on a SOLL II Local with an EP.,,,,,,,,

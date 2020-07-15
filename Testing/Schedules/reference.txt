@@ -1,0 +1,67 @@
+Aug:
+10020 EP A  
+10066 EP AL 
+10024 IP A  
+10085 IP AL
+10077 IP A1
+10004 MP C  
+10043 FPCC  
+10101 FPNC  
+10093 FPQC 
+10080 FPQC5
+10072 FPQC5
+10017 FPQC5
+10026 FPLCR 
+10076 FPCC
+
+Oct:
+10026 MP CZ
+10029 MP C5
+
+
+
+unsat1: based on conflict with unavailability, too many assigned to f1
+unsat2: based on crew not being qualified
+unsat3: s1 starts before window
+unsat4: f2 starts after window
+unsat5: unsat because, in July, 10026 should be an FP*, so no MP is assigned to basic flight f3
+unsat6: no events field
+unsat7: pilot has letter in name
+unsat8: pilot is not in data
+unsat9: maps to event rather than list of events
+unsat10: pilot scheduled to event that is not in "Events" field.
+unsat11: assigned to overlapping events
+unsat12: same as sat7, but f178 is moved up to conflict with 10062's unavailability
+
+
+
+
+sat1:
+f1: Augmented: [MP+, FPQ+, FPC+]
+f2: Basic: [MP+, FPC+]
+s1: [FPL+, ""] (fixed)
+
+sat2:
+f1: Augmented: [MP+, FPQ+, FPC+]
+f2: Basic: [MP+, FPC+]
+s77: MRP: [FPNC, IP+, optional ""]
+Does not utilize extra person
+
+sat3:
+f1: Augmented: [MP+, FPQ+, FPC+]
+f2: Basic: [MP+, FPC+]
+s77: MRP: [FPNC, IP+, optional ""]
+Does utilize extra person
+
+sat4:
+schedules a basic flight in October (f172) with 10026 as MP
+10026 is an FP* before October, so want to make sure he/she can't fill an MP spot in an earlier flight
+
+sat5:
+Multiple events for pilots that don't overlap
+
+sat6:
+distributes flight events
+
+sat7:
+soll2 flight event
